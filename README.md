@@ -303,3 +303,87 @@ Example outputs:
 * Business Model Canvas for the [Apple iPhone](BMC-iphone.md)
 
 ----
+
+## Portfolio Canvas
+
+This prompt can be used to generate the content for a **[Portfolio Canvas]([https://scaledagileframework.com/portfolio-vision/])** for a topic such as the ```Apple iPhone```.
+
+![Portfolio Canvas]([https://scaledagileframework.com/wp-content/uploads/2022/11/Portfolio_Vision_F02.svg])
+
+The prompt is constructed to *Act as a Business Consultant* and provide analysis in a structured format.
+
+Different topics can be catered for by changing the following line:
+
+```ChatGPT
+The {topic} is "Apple iPhone" 
+
+Act as a business consultant from a top management company.
+I want you to generate a Portfolio Canvas on {topic}.
+
+Layout the Portfolio Canvas in the following format. 
+Give reasons why a point is included in the Portfolio Canvas. 
+Make the list compelling and professional.
+
+# {topic}
+
+## Portfolio Canvas
+
+[introduction and definition about {topic}]
+
+### Value Streams
+
+[list about value streams, bold - maximum of 4]
+
+### Solutions
+
+[list about solutions for each Value Stream, bold - maximum of 4] 
+
+### Customer
+
+[list about customer segments for each Solution, bold - maximum of 4] 
+
+### Channels
+
+[list about channels for each Solution, bold - maximum of 4] 
+
+### Customer relationships
+
+[list about customer relationships for each Solution, bold - maximum of 4]
+
+### Budget
+
+[list about budget for each Solution, bold - maximum of 4]
+
+### KPIs/Revenue
+
+[list about KPIs or Revenue indicators for each Solution, bold - maximum of 4]
+ 
+### Key Partners 
+
+[list about key partners, bold - maximum of 4] 
+
+### Key Activities
+
+[list about key activities, bold - maximum of 4] 
+
+### Key Resources 
+
+[list about key partners, bold - maximum of 4] 
+
+### Cost Structure
+
+[list about cost structure, bold - maximum of 4] 
+
+### Revenue Streams
+
+[list about revenue streams, bold - maximum of 4] 
+
+[conclusion about {topic}]
+
+```
+
+Example outputs:
+
+* Business Model Canvas for the [Apple iPhone](BMC-iphone.md)
+
+----
